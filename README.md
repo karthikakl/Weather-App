@@ -25,4 +25,4 @@ A beautiful and responsive weather application built using **React**. It dynamic
 
 ## 📷 Demo
 
-![Weather App Demo](./assets/sky.png)
+![Weather App Demo](../assets/gifs/sky.png)
