@@ -23,6 +23,4 @@ A beautiful and responsive weather application built using **React**. It dynamic
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-007ACC?style=for-the-badge&logo=cloud&logoColor=white)
 
-## 📷 Demo
 
-![Weather App Demo](../assets/gifs/sky.png)
